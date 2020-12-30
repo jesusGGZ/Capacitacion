@@ -1,0 +1,16 @@
+{
+  "name": "capacitacion",
+  "version": "0.1.0",
+  "description": "Proyecto de practica para iniciar un servidor de nodeJs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "capacitacion",
+    "nodeJs",
+    "server"
+  ],
+  "author": "Jesus Antonio Garcia Zurita",
+  "license": "MIT"
+}
